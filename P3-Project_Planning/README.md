@@ -8,13 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 [Image of wireframe1]
-* (https://photos.google.com/photo/AF1QipOts3YsuFuzLqtWHN6dbyDM3qgDXPV0tWqGX7Ab)
+* (https://www.dropbox.com/s/jqjm6wz3jud9nt6/wireframe1.jpg?dl=0)
 
 [Image of wireframe2]
-* (https://photos.google.com/photo/AF1QipOys9_e2fHfsohHpWNWqqnARqvLZR7etlREcxbM)
+* (https://www.dropbox.com/s/zjx7z5iap175tdy/wireframe2.jpg)
 
 [Image of wireframe3]
-* (https://photos.google.com/photo/AF1QipOHuxEVbb3cwmga-PvDwDB_HokW5qgjSd2AJ02O)
+* (https://www.dropbox.com/s/ydcvqr8wyc0qu9d/wireframe3.jpg?dl=0)
 
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
