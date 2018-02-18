@@ -8,9 +8,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ### GitHub
 Provide a link to your GitHub account here.
+[Link to GitHub account] (https://github.com/EmilyJaneBeasley)
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+[Link to LinkedIn] (https://www.linkedin.com/in/emily-beasley-2b42a6b1/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
+[Resume PDF] (file:///C:/Users/mizem/Downloads/Resume(1).pdf)
